@@ -49,6 +49,5 @@ public class Hello {
 		System.out.println("질문 - " + question);
 		System.out.println("답 - " + answer);
 		System.out.println("구매정보 - " + info);
-
 	}
 }
