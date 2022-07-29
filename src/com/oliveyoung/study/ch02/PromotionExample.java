@@ -22,6 +22,12 @@ public class PromotionExample {
 	
 //		byte byteValue2 = intValue2;
 //		System.out.println("byteValue: " + byteValue2);
+		
+		int intValue3 = 200;
+		System.out.println("intValue3: " + intValue3);
+		
+		double doubleValue = intValue3;
+		System.out.println("doubleValue: " + doubleValue);
 	}
 
 }
