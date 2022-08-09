@@ -15,7 +15,12 @@ public class IfExample5 {
 			System.out.println("제 3사분면에 위치합니다.");
 		} else if(x > 0 && y < 0) {
 			System.out.println("제 4사분면에 위치합니다.");
+		} else if(x == 0 && y != 0) {
+			System.out.println("x축 위에 있습니다.");
+		} else if(x != 0 && y == 0) {
+			System.out.println("y축 위에 있습니다.");
 		} else {
+			// a=0 && b=0
 			System.out.println("(0,0) 입니다.");
 		}
 	}
