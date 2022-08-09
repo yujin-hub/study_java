@@ -26,8 +26,8 @@ public class ifExample2 {
 			System.out.println("골드 등급 할인율은 20%, 정가: " + price + " 할인가 : " + sale4);
 		}
 		else{
-			int sale5 = (int) (price * 0.73);
-			System.out.println("플래티넘 등급 할인율은 27%, 정가: " + price + " 할인가 : " + sale5);
+			int sale5 = (int) (price * 0.973);
+			System.out.println("플래티넘 등급 할인율은 2.7%, 정가: " + price + " 할인가 : " + sale5);
 		}
 	}
 
