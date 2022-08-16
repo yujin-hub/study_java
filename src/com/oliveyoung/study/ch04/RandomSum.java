@@ -61,6 +61,7 @@ public class RandomSum {
 //System.out.println("total : " + sum);
 
 
+
 //여기서 부터 정민님 소스
 //Random rand = new Random();
 //
