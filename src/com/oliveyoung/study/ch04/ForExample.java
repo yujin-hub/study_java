@@ -13,7 +13,7 @@ public class ForExample {
 			System.out.println(" ");
 		}
 		
-		
+
 		System.out.println("------------------");
 
 		
@@ -36,7 +36,7 @@ public class ForExample {
 		
 		//숫자 피라미드
 		
-        for(int i=0; i<=10; i++) {
+        for(int i=1; i<=10; i++) {
             for(int j=1; j<=i; j++) {
             	if(i == 10 && j % 2 == 0) {
             		if (j == 10){
