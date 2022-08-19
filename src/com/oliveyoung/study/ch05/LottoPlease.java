@@ -1,4 +1,4 @@
-package com.oliveyoung.study;
+package com.oliveyoung.study.ch05;
 
 import java.util.Arrays;
 
