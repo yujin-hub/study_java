@@ -11,5 +11,4 @@ public class HyundaiCarExample {
 			System.out.println((i+1) + "번째 : " + hyundaicar.name[i]);
 		}
 	}
-
 }
