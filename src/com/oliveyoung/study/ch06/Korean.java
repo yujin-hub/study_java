@@ -16,8 +16,8 @@ public class Korean  {
 			this.age = age;
 		}
 		
-		
 
+		
 		Korean (){
 			
 		}
