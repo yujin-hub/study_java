@@ -8,7 +8,7 @@ public class CarThird {
 	
 	
 	
-	// 다형성 : 이름은 똑같지만 여러 기능을 할 수 있음, 오버로드
+	// 다형성 : 이름은 똑같지만 여러 기능을 할 수 있음, 오버로드  꼭 기억하기!!!!!!
 	
 	CarThird (String name) {
 		this.name = name;
