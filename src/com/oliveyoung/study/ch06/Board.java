@@ -14,7 +14,7 @@ public class Board {
 	Board(String name, int views){
 		this.name = name;
 		this.views = views;
-	}
+	} 
 	
 	Board(String name, boolean use){
 		this.name = name;

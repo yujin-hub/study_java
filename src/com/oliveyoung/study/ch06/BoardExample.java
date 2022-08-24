@@ -14,7 +14,7 @@ public class BoardExample {
 
 		board.print();
 		board2.print();
-		board3.print();
+		board3.print(); 
 		board4.print();
 		board5.print();
 	}
