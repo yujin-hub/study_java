@@ -2,6 +2,7 @@ package com.oliveyoung.study.ch06;
 
 public class Board {
 
+	// field
 	String name = "최유진";
 	int views = 1052;
 	boolean use = true;
