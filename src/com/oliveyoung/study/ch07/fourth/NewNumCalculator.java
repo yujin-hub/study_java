@@ -1,4 +1,4 @@
-package com.oliveyoung.study.ch07.fifth;
+package com.oliveyoung.study.ch07.fourth;
 
 
 public class NewNumCalculator extends NumCalculator {
