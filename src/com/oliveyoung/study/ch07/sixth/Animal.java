@@ -9,5 +9,5 @@ public abstract class Animal {
 	}
 	
 	public abstract void sound();    // 자식 테이블에 이거 꼭 써야함
-//	public abstract void sound(String m);
+	public abstract void sound(String m);
 }

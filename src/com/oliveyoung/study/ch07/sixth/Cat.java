@@ -13,10 +13,10 @@ public class Cat extends Animal {
 	}   // 이거 안쓰면 오류!!!!
 	
 	
-//	@Override
-//	public void sound(String aaa) {
-//		System.out.println("야옹" + aaa);
-//	}
+	@Override
+	public void sound(String aaa) {
+		System.out.println("야옹" + aaa);
+	}
 	
 	
 }
