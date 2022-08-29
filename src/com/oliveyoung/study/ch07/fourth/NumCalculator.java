@@ -1,5 +1,6 @@
 package com.oliveyoung.study.ch07.fourth;
 
+
 public class NumCalculator {
 	
 	// field
@@ -33,3 +34,10 @@ public class NumCalculator {
 	}
 }
 	
+
+
+// 부모 클래스 
+// 필드 : 합계
+// 메소드 : 정수 3개를 오름차순 정렬 (직접 구현) void
+// 메소드2 : 순서 1 * 순서 2 + 순서 3  -> return 합
+ 
