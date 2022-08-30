@@ -1,6 +1,6 @@
 package codingTest;
 
-public class gradeCalculator {
+public class GradeCalculator {
 
 	public static void main(String[] args) {
 

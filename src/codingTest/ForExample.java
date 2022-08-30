@@ -1,6 +1,6 @@
 package codingTest;
 
-public class forExample {
+public class ForExample {
 
 	public static void main(String[] args) {
 		// 1~10까지 for문을 이용해서 더하는 프로그램 작성하시오.
